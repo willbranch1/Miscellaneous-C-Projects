@@ -1,7 +1,8 @@
 /*
-Program prints all primes between 2 and x, and all twin primes within the set. It shows understanding of and ability to use and manipulate integers
-within c.
+Program prints all primes between 2 and x, and all twin primes within the set.
+Shows understanding of and ability to use and manipulate integers within c.
 */
+
 #include <stdio.h>
 #include <stdbool.h>
 
